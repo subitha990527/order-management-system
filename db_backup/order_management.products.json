@@ -1,0 +1,33 @@
+[{
+  "_id": {
+    "$oid": "69b52f9cdac2aafeec32d81d"
+  },
+  "name": "Laptop",
+  "price": 50000,
+  "manufacturer": null,
+  "seller": null,
+  "status": "faulty",
+  "lastUpdatedBy": "seller"
+},
+{
+  "_id": {
+    "$oid": "69b55d3ad6b7e78b388f3883"
+  },
+  "name": "Keyboard",
+  "price": 2000,
+  "manufacturer": null,
+  "seller": null,
+  "status": "instock",
+  "lastUpdatedBy": null
+},
+{
+  "_id": {
+    "$oid": "69b565fe98b07f6d11d216ef"
+  },
+  "name": "Keyboard",
+  "price": 2000,
+  "manufacturer": null,
+  "seller": null,
+  "status": "instock",
+  "lastUpdatedBy": null
+}]
